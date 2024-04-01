@@ -3,3 +3,4 @@ data/books/*
 data/domains/*
 !data/books/.gitkeep
 !data/domains/.gitkeep
+gutenberg.sqlite
